@@ -1,0 +1,14 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/KATITB2023/cors-proxy.git",
+  "author": "rayhankinan <rayhankinan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
